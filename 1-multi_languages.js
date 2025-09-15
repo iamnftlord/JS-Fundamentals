@@ -1,4 +1,4 @@
-const  firstLine = 'C is fun';
+const firstLine = 'C is fun';
 const secondLine = 'Python is cool';
 const ThirdLine = 'JavaScript is amazing';
 
